@@ -1,0 +1,13 @@
+C:\Users\hailee.miu\Developer\CSharp\Expenses\bin\Debug\netcoreapp3.1\Expenses.exe
+C:\Users\hailee.miu\Developer\CSharp\Expenses\bin\Debug\netcoreapp3.1\Expenses.deps.json
+C:\Users\hailee.miu\Developer\CSharp\Expenses\bin\Debug\netcoreapp3.1\Expenses.runtimeconfig.json
+C:\Users\hailee.miu\Developer\CSharp\Expenses\bin\Debug\netcoreapp3.1\Expenses.runtimeconfig.dev.json
+C:\Users\hailee.miu\Developer\CSharp\Expenses\bin\Debug\netcoreapp3.1\Expenses.dll
+C:\Users\hailee.miu\Developer\CSharp\Expenses\bin\Debug\netcoreapp3.1\Expenses.pdb
+C:\Users\hailee.miu\Developer\CSharp\Expenses\obj\Debug\netcoreapp3.1\Expenses.csprojAssemblyReference.cache
+C:\Users\hailee.miu\Developer\CSharp\Expenses\obj\Debug\netcoreapp3.1\Expenses.AssemblyInfoInputs.cache
+C:\Users\hailee.miu\Developer\CSharp\Expenses\obj\Debug\netcoreapp3.1\Expenses.AssemblyInfo.cs
+C:\Users\hailee.miu\Developer\CSharp\Expenses\obj\Debug\netcoreapp3.1\Expenses.csproj.CoreCompileInputs.cache
+C:\Users\hailee.miu\Developer\CSharp\Expenses\obj\Debug\netcoreapp3.1\Expenses.dll
+C:\Users\hailee.miu\Developer\CSharp\Expenses\obj\Debug\netcoreapp3.1\Expenses.pdb
+C:\Users\hailee.miu\Developer\CSharp\Expenses\obj\Debug\netcoreapp3.1\Expenses.genruntimeconfig.cache
